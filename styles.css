@@ -1,0 +1,8 @@
+body {
+    background-color: darkslateblue;
+}
+
+.sidebar-menu {
+    display: flex;
+    flex-direction: column;
+}
