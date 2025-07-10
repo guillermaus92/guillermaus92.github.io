@@ -5,4 +5,8 @@ body {
 .sidebar-menu {
     display: flex;
     flex-direction: column;
+
+    button {
+        background-color: aqua;
+    }
 }
